@@ -1,1 +1,12 @@
 # Write your code here.
+
+
+def line(array)
+  
+  
+arr
+
+
+
+
+end
